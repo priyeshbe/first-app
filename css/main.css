@@ -1,0 +1,36 @@
+/*------------------------------------*\
+    #Colors
+blue #2c317c;
+grey #b3b3b3;
+yellow #fbbe22;
+red #e84427;
+\*------------------------------------*/
+
+/*------------------------------------*\
+    #MAIN
+\*------------------------------------*/
+
+
+
+/* **** Body/global **** */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.6em;
+  color: #2c317c;
+  background-color: #f0f0f3;
+}
+ .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
+.slider-icon {
+  position: absolute;
+  top: 50%;
+  font-size: 2em;
+}
