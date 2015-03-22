@@ -1,0 +1,7 @@
+{ "name": "priyesh-first-app",
+  "description": "my first app",
+  "version": "1.0.0",
+  "devDependencies": {
+    "coffee-script": "~1.6.3"
+  }
+}
